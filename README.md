@@ -11,10 +11,11 @@
 7.  [Hyperparameter Tuning](#hyperparameter-tuning)
 8.  [Model Training](#model-training)
 9.  [Evaluation](#evaluation)
-10. [Usage](#usage)
-11. [Conclusion and Future Scope](#conclusion-and-future-scope)
-12. [Acknowledgments](#acknowledgments)
-13. [References](#references)
+10. [Implementation](#implementation)
+11. [Usage](#usage)
+12. [Conclusion and Future Scope](#conclusion-and-future-scope)
+13. [Acknowledgments](#acknowledgments)
+14. [References](#references)
 
 ## Introduction
 
@@ -68,6 +69,10 @@ The model is trained using the best hyperparameter settings identified, with per
 The final model's performance is rigorously evaluated using classification reports and confusion matrices, highlighting its precision and robustness in real-world scenarios.
 
 ![Classification Report](figures/classification_report.png) ![Confusion Matrix](figures/conf_mat.png)
+
+## Implementation
+To see the project in action, visit the hosted Jupyter notebook on GitHub Pages:
+[Explore the Live Notebook](https://acm40960.github.io/project-currency-denomination-recognition-23200555/)
 
 ## Usage
 
